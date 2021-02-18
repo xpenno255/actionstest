@@ -1,6 +1,6 @@
 name: Hello World
 
-on: [repository_dispatch]
+on: push
 
 jobs:
   hello-world:
